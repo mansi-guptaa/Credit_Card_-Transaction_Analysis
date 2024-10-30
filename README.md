@@ -1,4 +1,4 @@
-# Credit Card Transaction Dashboard
+# Credit Card Transaction Analysis
 ![Screenshot (336)](https://github.com/user-attachments/assets/9d370ec9-b985-41c4-8b06-4d3e3f0bbd15)
 
 
