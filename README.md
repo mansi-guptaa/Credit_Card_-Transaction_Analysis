@@ -1,4 +1,6 @@
 # Credit Card Transaction Dashboard
+![Screenshot (336)](https://github.com/user-attachments/assets/9d370ec9-b985-41c4-8b06-4d3e3f0bbd15)
+
 
 ## Project Overview
 This dashboard provides an overview of credit card transaction metrics, including revenue, transaction amounts, and interest earned, categorized by various demographics and card details. It offers insights into the performance and usage of different credit card categories.
